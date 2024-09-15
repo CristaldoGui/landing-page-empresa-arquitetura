@@ -38,3 +38,28 @@
     font-weight: bold;
     font-size: 30px;
 }
+
+#historia-empresa{
+    padding: 15px;
+    display: grid;
+    grid-template-columns: 65% 35%;
+}
+
+#texto-historia-empresa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#texto-historia-empresa h2{
+    font-size: 36px;
+}
+
+#texto-historia-empresa p{
+    font-size: 22px;
+    margin-top: 24px;
+}
+
+#imagem-historia-empresa{
+    height: 500px;
+}
