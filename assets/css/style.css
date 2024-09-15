@@ -63,3 +63,56 @@
 #imagem-historia-empresa{
     height: 500px;
 }
+
+#secao-formulario{
+    background-color: hsl(0, 0%, 19%);
+    height: 550px;
+    color: #ffff;
+    padding-top: 100px;
+}
+
+#form-container{
+    text-align: center;
+}
+
+form{
+   display: inline-block;
+   width: 380px;
+}
+
+#secao-formulario p{
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.input-form{
+    display: block;
+    width: 100%;
+    margin: 0 0 50px;
+    margin-top: 30px;
+    padding: 10px 25px;
+    height: 55px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 15px;
+    outline: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.input-form::placeholder{
+    color: #0000004D;
+}
+
+.button-form{
+    background-color: #C07212;
+    color: #ffff;
+    width: 250px;
+    height: 57px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    font-size: 22px;
+    margin-top: 12px;
+    font-weight: bold;
+}
