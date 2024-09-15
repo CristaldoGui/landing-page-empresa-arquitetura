@@ -8,7 +8,7 @@
 #menu-superior{
     background-color: #303030;
     width: 100%;
-    height: 80vh;
+    height: 475px;
     color: #ffff;
     padding-top: 200px;
 }
@@ -27,4 +27,14 @@
 #dados-empresa{
     background-color: #F9F9F9;
     color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 210px;
+    letter-spacing: 1.5px;
+}
+
+.texto-titulo-dados-empresa{
+    font-weight: bold;
+    font-size: 30px;
 }
