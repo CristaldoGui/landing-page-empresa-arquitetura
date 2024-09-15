@@ -7,20 +7,24 @@
 
 #menu-superior{
     background-color: #303030;
-    color: #ffff;
     width: 100%;
-    height: 400px;
-    position: absolute;
+    height: 80vh;
+    color: #ffff;
+    padding-top: 200px;
 }
 
-#menu-superior h1{
+#titulo-menu-superior{
     font-size: 60px;
-    margin-top: 180px;
     margin-left: 60px;
 }
 
-#menu-superior p{
+#texto-menu-superior{
     font-size: 20px;
     margin-left: 60px;
     margin-top: 15px;
+}
+
+#dados-empresa{
+    background-color: #F9F9F9;
+    color: black;
 }
